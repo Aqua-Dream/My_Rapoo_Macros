@@ -1,0 +1,132 @@
+{
+    "Macro": {
+        "CycleNumber": 1,
+        "ID": 5,
+        "IgnoreDelay": false,
+        "InfoList": [
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 44,
+                "Type": 0,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 50,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 44,
+                "Type": 0,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 10,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 69,
+                "Type": 0,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 50,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 69,
+                "Type": 0,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 200,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 69,
+                "Type": 0,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 10,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 69,
+                "Type": 0,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 10,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 30,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            }
+        ],
+        "Name": "牛卡帧跳",
+        "PlayType": 1
+    },
+    "Platform": "AHub"
+}

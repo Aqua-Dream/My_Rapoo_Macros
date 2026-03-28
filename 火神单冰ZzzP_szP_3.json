@@ -1,0 +1,37 @@
+{
+    "Macro": {
+        "CycleNumber": 1,
+        "ID": 1,
+        "IgnoreDelay": false,
+        "InfoList": [
+            {"Action":1,"Delay":0,"KeyCode":240,"Type":1,"X":0,"Y":0},
+            {"Action":0,"Delay":2200,"KeyCode":0,"Type":2,"X":0,"Y":0},
+            {"Action":0,"Delay":0,"KeyCode":240,"Type":1,"X":0,"Y":0},
+            {"Action":0,"Delay":1000,"KeyCode":0,"Type":2,"X":0,"Y":0},
+            {"Action":1,"Delay":0,"KeyCode":241,"Type":1,"X":0,"Y":0},
+            {"Action":0,"Delay":0,"KeyCode":241,"Type":1,"X":0,"Y":0},
+            {"Action":0,"Delay":50,"KeyCode":0,"Type":2,"X":0,"Y":0},
+            {"Action":1,"Delay":0,"KeyCode":240,"Type":1,"X":0,"Y":0},
+            {"Action":0,"Delay":500,"KeyCode":0,"Type":2,"X":0,"Y":0},
+            {"Action":0,"Delay":0,"KeyCode":240,"Type":1,"X":0,"Y":0},
+            {"Action":0,"Delay":1100,"KeyCode":0,"Type":2,"X":0,"Y":0},
+            {"Action":1,"Delay":0,"KeyCode":241,"Type":1,"X":0,"Y":0},
+            {"Action":0,"Delay":0,"KeyCode":241,"Type":1,"X":0,"Y":0},
+            {"Action":0,"Delay":50,"KeyCode":0,"Type":2,"X":0,"Y":0},
+            {"Action":1,"Delay":0,"KeyCode":240,"Type":1,"X":0,"Y":0},
+            {"Action":0,"Delay":500,"KeyCode":0,"Type":2,"X":0,"Y":0},
+            {"Action":0,"Delay":0,"KeyCode":240,"Type":1,"X":0,"Y":0},
+            {"Action":0,"Delay":1100,"KeyCode":0,"Type":2,"X":0,"Y":0},
+            {"Action":1,"Delay":0,"KeyCode":241,"Type":1,"X":0,"Y":0},
+            {"Action":0,"Delay":0,"KeyCode":241,"Type":1,"X":0,"Y":0},
+            {"Action":0,"Delay":50,"KeyCode":0,"Type":2,"X":0,"Y":0},
+            {"Action":1,"Delay":0,"KeyCode":240,"Type":1,"X":0,"Y":0},
+            {"Action":0,"Delay":500,"KeyCode":0,"Type":2,"X":0,"Y":0},
+            {"Action":0,"Delay":0,"KeyCode":240,"Type":1,"X":0,"Y":0},
+            {"Action":0,"Delay":1100,"KeyCode":0,"Type":2,"X":0,"Y":0}
+        ],
+        "Name": "火神单冰ZzzP(szP)*3",
+        "PlayType": 3
+    },
+    "Platform": "AHub"
+}
