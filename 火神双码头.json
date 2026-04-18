@@ -1,0 +1,852 @@
+{
+    "Macro": {
+        "CycleNumber": 0,
+        "ID": 7,
+        "IgnoreDelay": false,
+        "InfoList": [
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 360,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 40,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 180,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 160,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 40,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 180,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 750,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 22,
+                "Type": 0,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 22,
+                "Type": 0,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 350,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 540,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 180,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 160,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 40,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 180,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 850,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 22,
+                "Type": 0,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 22,
+                "Type": 0,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 250,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 540,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 180,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 160,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 40,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 180,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 850,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 22,
+                "Type": 0,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 22,
+                "Type": 0,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 250,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 540,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 180,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 160,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 40,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 180,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 850,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 22,
+                "Type": 0,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 22,
+                "Type": 0,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 250,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 540,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 180,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 160,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 40,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 180,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 850,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 22,
+                "Type": 0,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 22,
+                "Type": 0,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 250,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 540,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 180,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 160,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 40,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 180,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 241,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 850,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 1,
+                "Delay": 0,
+                "KeyCode": 22,
+                "Type": 0,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 22,
+                "Type": 0,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 250,
+                "KeyCode": 0,
+                "Type": 2,
+                "X": 0,
+                "Y": 0
+            },
+            {
+                "Action": 0,
+                "Delay": 0,
+                "KeyCode": 240,
+                "Type": 1,
+                "X": 0,
+                "Y": 0
+            }
+        ],
+        "Name": "火神双码头",
+        "PlayType": 3
+    },
+    "Platform": "AHub"
+}
